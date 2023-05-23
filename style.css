@@ -5,7 +5,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #141414;
+  background-image: url("images/artem-shuba-GnFfltxsonU-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-position: center center center center;
+  background-size: cover;
   color: #fff;
   font-family: "Poppins", sans-serif;
 }
@@ -41,7 +44,7 @@ body {
 
 #inputSearch::after {
   background-color: transparent;
-  outline: none;
+  outline: nonej;
 }
 
 #search button {
